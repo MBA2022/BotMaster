@@ -49,6 +49,5 @@ please open an [issue](https://github.com/MBA2022/BotMaster/issues) or submit a 
 
 ## License
 
-This project is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)-[MBA](https://github.com/MBA2022/BotMaster/blob/main/License)
-
+This project is licensed under the [MIT License.]([https://choosealicense.com/licenses/mit/](https://github.com/MBA2022/BotMaster/blob/main/License))
 > All rights reserved © 2023 MBA {//}
