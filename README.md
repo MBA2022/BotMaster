@@ -15,7 +15,7 @@ npm install discord.js
 ## Installation
 1. Clone the repository.
 2. Install the dependencies with `npm install`.
-3. Add Discord bot token in Cnfigration file  `config.json`.
+3. Add Discord bot token in Configration file  `config.json`.
 
 For example:
 
